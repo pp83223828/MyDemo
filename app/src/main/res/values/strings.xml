@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">MyDemo</string>
+    <string name="main_title_home">主页</string>
+    <string name="main_title_dashboard">测试模块</string>
+    <string name="main_title_notifications">通知</string>
+    <string name="main_title_my">我的</string>
+    <string name="back_again_exit">再按一次退出程序</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="content_to_request_permission">保证应用正常运行，请授予必要权限！</string>
+    <string name="attention">提示</string>
+    <string name="ok">好的~</string>
+</resources>
